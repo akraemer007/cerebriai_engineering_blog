@@ -10,4 +10,4 @@ Function can be found in [ks_plot.py](https://github.com/Cerebri/KS-plot/blob/ma
 
 Example code can be found [here](https://github.com/Cerebri/KS-plot/blob/master/example.py).
 
-For more information, please see the associated blogpost.
+For more information, please see the [associated blogpost](https://www.cerebri.com/testing-for-overfitting-in-binary-classifiers/).
